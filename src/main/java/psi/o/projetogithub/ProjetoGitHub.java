@@ -5,7 +5,7 @@
 
 package psi.o.projetogithub;
 
-/**
+/** 
  *
  * @author João Barbosa
  */
@@ -15,7 +15,7 @@ public class ProjetoGitHub {
         System.out.println("Olá Mundo!");
         // falta aqui um comentário...
         // Mas não sei qual é...
-        int x = 10;
+        int x = 10; //
         System.out.println("FIM " + x);
     }
 }
