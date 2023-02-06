@@ -14,6 +14,8 @@ public class ProjetoGitHub {
     public static void main(String[] args) {
         System.out.println("Olá Mundo!");
         // falta aqui um comentário...
-        System.out.println("FIM");
+        // Mas não sei qual é...
+        int x = 10;
+        System.out.println("FIM " + x);
     }
 }
