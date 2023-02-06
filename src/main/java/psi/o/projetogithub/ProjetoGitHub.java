@@ -7,11 +7,12 @@ package psi.o.projetogithub;
 
 /**
  *
- * @author f133
+ * @author João Barbosa
  */
 public class ProjetoGitHub {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Olá Mundo!");
+        // falta aqui um comentário...
     }
 }
